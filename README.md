@@ -42,7 +42,7 @@ Users can add, search, and delete notes. Notes are saved in the browser’s loca
    npm run dev
    ```
 
-   The app will open at: [http://localhost:5173](http://localhost:5173)
+   The app will open at: https://react-notes-app-snowy.vercel.app 
 
 ---
 
